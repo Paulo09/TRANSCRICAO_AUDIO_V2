@@ -1,6 +1,6 @@
 
                                                                             
-                                                          Transcrição Audio com Python
+                                           Transcrição Audio com Python
 
                                                                             
 
