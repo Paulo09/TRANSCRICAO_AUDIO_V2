@@ -1,3 +1,9 @@
+
+                                                                            
+                                                                            Transcrição Audio com Python
+
+                                                                            
+
 import re
 import os
 import polars as pl
